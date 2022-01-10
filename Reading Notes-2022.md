@@ -1,6 +1,6 @@
-##Idiom##
-money talks louder than words
+## Idiom
+- money talks louder than words
 
 
-##Beautiful Sentence##
-Time seemed to drag
+## Beautiful Sentence
+- Time seemed to drag

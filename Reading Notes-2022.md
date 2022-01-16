@@ -9,6 +9,7 @@
 - Somehow he looked different, she thought, so different that she felt shyer, both of him and of her own appearance, than she had ever been before.
 - It hung over them like the sword of Damocles
 - If she drove him too hard, he would break like a dam bursting its wall and nothing she could say or do would hold him in check.
+- who kill for killing’s sake and not for any particular motive.
 
 ## Spirit/Alcoholic liquor
 - whisky/whiskey : distilled from malted grain

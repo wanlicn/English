@@ -28,5 +28,12 @@
   - British *London Dry Gin*
   - Neathland *Dutch Gin*
 - Absinthe : distilled from absinthe and other herb, a green liqueur having a bitter anise or licorice flavor
-
+# Chinese Nobility 
+- Emperor/Empress *Huang/Di/Huangdi Tianzi*  the title of the sovereign
+  - Three Sovereigns and Five Emperors
+  - Empress Consort *Hou*
+   - Empress Dowager *Taihou*
+  - Imperial Concubine: Imperial Madams
+- King *wang*
  
+- 

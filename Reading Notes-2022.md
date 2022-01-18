@@ -28,6 +28,9 @@
   - British *London Dry Gin*
   - Neathland *Dutch Gin*
 - Absinthe : distilled from absinthe and other herb, a green liqueur having a bitter anise or licorice flavor
+
+-Champagne : a sparkling white wine, which was firstlly made in Champagne, France
+
 # Chinese Nobility 
 - Emperor/Empress *Huang/Di/Huangdi Tianzi*  the title of the sovereign
   - Three Sovereigns and Five Emperors

@@ -3,6 +3,7 @@
 
 ## Phrase
 - spirit away
+- dip into the captial
 
 ## Beautiful Sentence
 - Time seemed to drag

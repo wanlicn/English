@@ -11,6 +11,7 @@
 - It hung over them like the sword of Damocles
 - If she drove him too hard, he would break like a dam bursting its wall and nothing she could say or do would hold him in check.
 - who kill for killing’s sake and not for any particular motive.
+- she hoped almost against hope that 
 
 ## Spirit/Alcoholic liquor
 - whisky/whiskey : distilled from malted grain

@@ -12,6 +12,7 @@
 - If she drove him too hard, he would break like a dam bursting its wall and nothing she could say or do would hold him in check.
 - who kill for killing’s sake and not for any particular motive.
 - she hoped almost against hope that 
+- The Governesses they had when they themselves had been small had all been women of about forty, clergymen’s or doctors’ daughters.
 
 ## Spirit/Alcoholic liquor
 - whisky/whiskey : distilled from malted grain

@@ -26,7 +26,11 @@ ABV: Alcoholic by Volume, X%
 - soju, 
 
 ## Fortified wine  强化酒（葡萄酒与其他烈酒brandy勾兑的混合酒）
-
+- Port: made from Doura Valley of northern Portugal 波尔图葡萄酒
+- Sherry: made of white grape grown near the city of Jerez de la Frontera in Andalusia, Spain雪梨酒
+  - fino: palest and driest 菲诺雪梨酒
+  - Manzanilla : pale,very dry, with bitter-flavor 曼赞尼拉酒
+- Madeira: made from the island of Madeira
 ## Sparkling Wine // sencondary fermented
 - French Champagne : a sparkling white wine, which was firstlly made in Champagne, France 香槟
 - Catalan Cava: white or rose， Spain 卡瓦酒
@@ -34,9 +38,9 @@ ABV: Alcoholic by Volume, X%
 
 ## Wine & Fortified wine  葡萄酒以及强化酒（葡萄酒与其他烈酒brandy勾兑的混合酒）
 - Red wine
-  - Port：a rich sweet fortified wine，made in the Douro Valley of northern Portugal 波尔图葡萄酒
+  - Port：波尔图葡萄酒
 - white wine
-  - Sherry: fortified Spanish wine 雪梨酒
+  - Sherry:  雪梨酒
   
 
 ## Beer

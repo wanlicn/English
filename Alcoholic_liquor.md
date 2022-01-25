@@ -19,18 +19,23 @@ ABV: Alcoholic by Volume, X%
   - Neathland *Dutch Gin*
 - Absinthe : distilled from absinthe and other herb, a green liqueur having a bitter anise or licorice flavor 苦艾酒
   - European
-- Baijiu
+- Baijiu /shaojiu（中国）白酒: 
 
-- shōchū
+- shōchū (日本)焼酎: 
 
-- soju, 
+- soju  (韩国)燒酒: 
 
 ## Fortified wine  强化酒（葡萄酒与其他烈酒brandy勾兑的混合酒）
 - Port: made from Doura Valley of northern Portugal 波尔图葡萄酒
 - Sherry: made of white grape grown near the city of Jerez de la Frontera in Andalusia, Spain雪梨酒
   - fino: palest and driest 菲诺雪梨酒
   - Manzanilla : pale,very dry, with bitter-flavor 曼赞尼拉酒
-- Madeira: made from the island of Madeira
+- Madeira : made from the island of Madeira, Portuguese 马德拉白葡萄
+- Marsara : the city of marsara in Sicily, Italy
+- Commandaria :
+- Vermouth : flavored with aromatic herbs, in Turin, Italy //France 味美思酒，苦艾酒 
+
+
 ## Sparkling Wine // sencondary fermented
 - French Champagne : a sparkling white wine, which was firstlly made in Champagne, France 香槟
 - Catalan Cava: white or rose， Spain 卡瓦酒
